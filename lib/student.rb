@@ -1,5 +1,5 @@
-class Student < User
+class Student
   
-  KNOWLEDGE.sample
+  
 
 end
